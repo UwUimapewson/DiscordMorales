@@ -1,0 +1,23 @@
+{
+  "name": "discordmorales",
+  "version": "0.2.4",
+  "description": "for you, sky ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UwUimapewson/DiscordMorales.git"
+  },
+  "keywords": [
+    "discord",
+    "email"
+  ],
+  "author": "cmdpromptcat/sam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UwUimapewson/DiscordMorales/issues"
+  },
+  "homepage": "https://github.com/UwUimapewson/DiscordMorales#readme"
+}
