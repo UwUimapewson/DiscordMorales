@@ -1,7 +1,7 @@
 # DiscordMorales
 A discord bot to see emails from a certain user and post them to an announcment channel on discord.
 
-#Install
+# Install
 git curl https://github.com/UwUimapewson/DiscordMorales.git
 cd DiscordMorales
 
