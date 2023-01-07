@@ -4,6 +4,6 @@ A discord bot to see emails from a certain user and post them to an announcment 
 # Install
 git clone https://github.com/UwUimapewson/DiscordMorales.git && cd DiscordMorales
 
-**Add your credentials into the index.js**
+**Add your credentials into the index.js (something like vim index.js)**
 
 node index.js
